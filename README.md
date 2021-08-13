@@ -1,2 +1,2 @@
-# Asokatan.github.io
+# Asokatan
 First try website 
