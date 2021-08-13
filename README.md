@@ -1,2 +1,2 @@
-# Asokatan.github.io
+# Anuar Urazbaev
 First try website 
